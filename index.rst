@@ -6,26 +6,26 @@ Particl Academy
    Particl Marketplace Documentation
    
 .. meta::
-   :description lang=en: A guide to become an expert for responsible and sustainable e-commerce in privacy with Particl Marketplace. Thanks to decentralized blockchain technology. The reference book in straightforward language.
-   :keywords lang=en: Particl, Marketplace, Documentation, Blockchain, Privacy, E-Commerce, Decentralized
+   :description lang=fr: Un guide pour devenir un expert à l'utilisation e-commerce responsable et durable en confidentialité avec la Marketplace Particl. Grâce à sa technologie de blockchain décentralisée. Le site de référence en un langage compréhensible. 
+   :keywords lang=fr: Particl, Marketplace, Documentation, Blockchain, Privacy, E-Commerce, Decentralisé
 
-**Documentation for Particl Marketplace.**
+**Documentation pour la Marketplace Particl .**
 
 .. meta::
-   :description lang=en: 
+   :description lang=fr: 
 
-Particl Academy guides you to become an expert for e-commerce with the :term:`Particl Marketplace`. It is a reference book in straightforward language.   
+Particl Academy vous guide pour devenir un expert en e-commerce avec la :term:`Particl Marketplace`. Le site de référence en un langage compréhensible.   
 
-:term:`Particl Marketplace` is the most secure and private online marketplace on the web, putting you at the center. You become the Robin Hood of retail, the Avenger against the forces of oppression, and the Punisher for rogues at the same time. Democracy is the force, and :term:`Particl Marketplace` your lightsaber.
+:term:`Particl Marketplace` est la place de marché en ligne la plus sécurisée et privée du web, plaçant l'utilisateur au centre de son écosystème. Vous devenez le Robin des bois de la grande distribution, un Avenger contre les forces d'oppression, et le Punisher des escrocs tout à la fois. La démocratie est la force et la :term:`Particl Marketplace` votre sabre laser.
 
-The time-economists among you will jump right to the :doc:`Quickstart Guide <guides/guide_general_getstarted>`. 
+Les plus pressés d'entre vous iront directement à la section :doc:`Quickstart Guide <guides/guide_general_getstarted>`. 
 
 ----
 
 Introduction
 ============
 
-Take your first few steps with understanding the :term:`Particl Marketplace`. What is Particl Marketplace? What do you get, who is it for, and the answer to the why:
+Effectuez vos premiers pas à bien comprendre la :term:`Particl Marketplace`. Qu'est ce que la Marketplace Particl? Qu'en obtiendrez vous, à qui est-ce destiné, et le pourquoi du comment:
 
 .. toctree::
    :caption: Introduction
@@ -46,10 +46,10 @@ Take your first few steps with understanding the :term:`Particl Marketplace`. Wh
 
 ----
 
-Installation & Usage
+Installation & Utilisation
 ====================
 
-All begins with the installation of the :term:`Particl Desktop` software. Follow these best practices for the installation, set up your first wallet, and understand the user interface:
+Tout commence avec l'installation du logiciel client :term:`Particl Desktop` . Suivez ces indications pour l'installation, créer votre premier portefeuille, et comprendre l'interface utilisateur:
 
 .. toctree::
    :caption: Installation & Usage
@@ -68,10 +68,10 @@ All begins with the installation of the :term:`Particl Desktop` software. Follow
 
 ----
 
-User Guides
+Guides de l'utilisateur
 ===========
 
-Step-by-step user guides about the most vital processes of :term:`Particl Marketplace`. Find everything summarized without having questions left open:
+Les guides de l'utilisateur pas-à-pas à propos des fonctions les plus élémentaires de la :term:`Particl Marketplace`. Trouvez un résumé complet qui ne laisse aucune question en suspens:
 
 .. toctree::
    :caption: User Guides
@@ -105,10 +105,10 @@ Step-by-step user guides about the most vital processes of :term:`Particl Market
 
 ----
 
-Particl Explained
+Particl en Détails
 =================
 
-Find advanced, very in-depth, and detailed articles about functions and concepts behind the :term:`Particl Marketplace`. They will make you a master, but you do not need them to use the :term:`Particl Marketplace`:
+Trouvez des articles avancés et détaillés à propos des fonctions et concepts derrière la :term:`Particl Marketplace`. Ceux ci feront de vous un expert, même si vous n'en avez pas besoin pour utiliser la :term:`Particl Marketplace`:
 
 .. toctree::
    :caption: Particl Explained
@@ -135,10 +135,10 @@ Find advanced, very in-depth, and detailed articles about functions and concepts
 
 ----
 
-Help and Assistance
+Aide et Assistance
 ===================
 
-Are you having an issue not covered in this section? Your invaluable insights will make the Particl Academy more complete.
+Rencontrez vous des problèmes non abordés dans cette section? Votre contribution inestimable permettra à la Particl Academy d'être plus complète.
 
 .. toctree::
    :caption: Help
@@ -159,17 +159,17 @@ Are you having an issue not covered in this section? Your invaluable insights wi
 
 ----
 
-Technical Documentation
+Documentation Technique
 =======================
 
-More technical documentation can be found in these locations.
+Davantage de documentation technique peut être trouvée ci dessous.
 
 * `Particl's Wiki <https://particl.wiki/>`_
 * `Particl's GitHub <https://github.com/particl>`_
 
 ----
 
-Resources and Links
+Ressources et Liens
 ===================
 
 * `Download Particl Marketplace <https://particl.io/downloads>`_
@@ -179,4 +179,4 @@ Resources and Links
 
 .. note::
 
-   This documentation is up-to-date with Particl's latest version, |PD version|. Please keep in mind this software is still in :guilabel:`BETA`, and as such, lots of features are regularly added. 
+   Cette documentation est à jour avec la dernière version de Particl, |PD version|. S'il vous plait gardez à l'esprit que ce logiciel est toujours en :guilabel:`BETA`, et que par conséquent, de nombreuses fonctionnalités seront régulièrement ajoutées.
