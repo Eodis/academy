@@ -1,5 +1,5 @@
 =============
-What You Gain
+Ce que vous y gagnez
 =============
 
 .. title::
@@ -9,125 +9,125 @@ What You Gain
    :description lang=en: Do e-commerce, in privacy, without anyone in between —a fair and level playing field for everyone.
    :keywords lang=en: Boss, Blockchain, Privacy, E-Commerce, liberty, freedom
 
-:term:`Particl Marketplace` is a one-of-a-kind e-commerce platform that lets you buy and sell goods and services online with nobody in between. It’s just you and the other person you’re dealing with. There’s no company operating, controlling, or benefiting from the marketplace.
+:term:`Particl Marketplace` est une plateforme e-commerce unique en son genre qui vous laisse acheter et vendre des biens et services en ligne sans intermédiaire. Seulement vous et l'autre personne avec qui vous effectuez une transaction. Il n'y a pas d'entreprise opérant, contrôlant et bénéficiant de la place de marché.
 
-Unlike Amazon, eBay, or any other in-betweens, it is built with core security and privacy principles that keep you and your data safe at all times.
+Contrairement à Amazon, eBay, ou tout autre intermédiaire, Particl est conçu avec des principes fondamentaux de sécurité et de protection de la vie privée, vous protégeant vous et vos données en permanence.
 
-**The world has changed, so you change as well to brace up your liberty and future.**
+**Le monde a changé, alors vous changez également pour votre liberté et votre futur.**
 
-* :ref:`Protect your finances <Protect Your Finances>` and keep extra money for what matters in your life. 
-* :ref:`Stand for liberty <Stand For Liberty>` and stop being the exploited product.
-* :ref:`Squash the rogues <Squash The Rogues>` and stop the scammers.
-* :ref:`Contribute to society <Contribute To Society>` when you buy and sell online.
+* :ref:`Protégez vos finances <Protégez vos finances>` et gardez votre surplus d'argent pour ce qui importe dans votre vie. 
+* :ref:`Défendez la Liberté <Défendez la Liberté>` et arrêtez d'être le produit exploité.
+* :ref:`Écrasez les voyous <Écrasez les voyous>` et arrêtez les escrocs.
+* :ref:`Contribuez à la société <Contribuez à la société>` lorsque vous achetez et vendez en ligne.
 
-Advanced and easy-to-use technology empowers you, your local economy, but not the corporate monopolies that prey on it. Feel like a hero fighting our generation’s most powerful villains!
+Une techologie avancée et facile à utiliser qui vous donne du pouvoir à vous, votre économie locale, mais pas les monopoles d'entreprises prédateurs. Sentez vous comme un héros combattant le puissant mal de notre génération!
 
 .. note:: 
-	 Particl Marketplace relies on open-source technologies openly audited, inspected, and improved by a global community. It is based on distributed ledger and peer-to-peer technologies. It runs on a network of independent nodes hosted by volunteers scattered across the world. The entirely autonomous platform doesn’t require any central party to operate or maintain, which means no company or organization is between buyers and sellers.
+	 La Marketplace Particl dépend de technologies open source auditées, inspectées, et améliorées par la communauté. Elle est basée sur les technologies de peer to peer et de distributed ledger. Cela fonctionne sur un réseau de noeuds indépendants hébergés par des bénévoles partout dans le monde. La plateforme est entièrement autonome et ne requiert d'entité centralisée pour opérer ou se maintenir, ce qui veut dire qu'aucune entreprise ou organisation ne s'immisce entre acheteurs et vendeurs.
 
 ----
 
-Protect Your Finances
+Protégez vos finances
 ---------------------
 
-In today's economy, your survival is mainly bound to the state of your finances. So protecting your finances is a natural desire. Unfortunately, if you use “free” internet services, they are not really free! No, instead, you pay with your invaluable personal information and data, on top of commissions and fees.
+Dans l'économie contemporaine, votre survie est liée à l'état de vos finances. Protéger vos finances est un désir naturel. Malheureusement si vous utilisez des services internet “gratuits”, ils ne le sont pas vraiment! Non, à la place vous payez avec vos inestimables données et informations personnelles, en plus de commission et frais.
 
-:term:`Particl Marketplace` does not seek revenues from selling off your data or through fees. It doesn’t need that data and income because there is no corporate interest behind it. Instead, the people working on Particl are supported entirely by community donations, without any strings attached or compromise for you. This brings down the total cost of doing online commerce.
+:term:`Particl Marketplace` n'a pas vocation à profiter de la vente de vos données ou de frais. Celle-ci n'a pas besoin de tout cela parce qu'il n'y a pas d'entreprise lucrative derrière. À la place, les gens travaillant sur Particl sont entièrement financés par les dons de la communauté sans contrepartie ou compromis pour vous. Cela réduit les coûts totaux de la pratique du commerce en ligne.
 
-*“We help you to save more or make more money by cutting out the middleman.“*
+*“Nous vous aidons à économiser davantage ou faire plus de profits en supprimant l'intermédiaire.“*
 
 ----
 
-Stand For Liberty
+Défendez la Liberté
 -----------------
 
-Big corporations collect data from you with every purchase and sale you make. They even do it the second you land on their website and start browsing. They use your data to analyze your behaviors as an online merchant or a consumer and increase their bottom line. Then, they sell your personal information or use it against you without your knowledge or consent. You’ve guessed it. You have become the product, and these corporations are your insidious thieves.
+Les grandes entreprises collectent vos données à chacun de vos achats ou chacune de vos ventes. Une pratique utilisée à l'instant même où vous atterrissez sur leur site web et commencez à naviguer. Ils utilisent vos données pour analyser vos comportements en tant que marchand en ligne ou consommateur et augmenter leur résultat net. Ensuite ils vendent vos informations personnelles ou les utilisent contre vous sans que vous le sachiez et sans votre consentement. Vous avez deviné. Vous êtes devenu le produit, et ces entreprises des voleurs perfides.
  
-**Corporations like e-commerce giants have become your credit score broker.**
+**Les géants de l'e-commerce sont devenus vos courtiers en cote de crédit.**
 
-* Based on their risk assessment, they rate your insurance policies. 
-* Your personal preferences will be the reason why you may not get a particular job.
-* Or even worse, rating algorithms could block your bank accounts in the future!
+* En fonction de leur prise de risque, ils évaluent vos polices d'assurance. 
+* Vos préférences personnelles seront la raison pour laquelle vous ne décrocherez pas un emploi spécifique.
+* Ou pire encore, des algorithmes d'évaluation pourront décider de bloquer vos comptes en banque dans le futur!
 
-The ever-sprawling giant e-commerce corporations always seek to expand their profits, market power, and control. They have created today’s alarming digital security and privacy crisis under the guise of usability and convenience. And with all the information they possess, they've become more powerful than national governments! Believe it or not, protecting your data is protecting your finances and your quality of life.
+Les sociétés tentaculaires géantes de l'e-commerce seront toujours en quête de profit, de pouvoir de marché, et de contrôle. Ils ont crée les conditions alarmantes de la crise numérique de confidentialité sous le déguisement de la facilité d'utilisation et la convivialité. Et avec toutes les informations qu'ils possèdent, ils sont devenus plus puissants que les gouvernements nationaux! Croyez le ou non, protéger vos données revient à préserver vos finances et votre qualité de vie.
 
-*“We help you to become the captain of your data and liberties.“*
+*“Nous vous assistons à devenir le capitaine de vos données et libertés.“*
 
 ----
 
-Squash The Rogues
+Écrasez les voyous
 -----------------
 
-**You Stop Privacy Invasions and Backdoors** 
+**Vous stoppez les atteintes à la vie privée** 
 
-No more stolen credit card information or passwords, compromised online accounts, or any online surveillance. When no data about you is created, it cannot be collected by anyone. And when no one collects it, it cannot be shared, sold, misused, hacked, or leaked anymore. That’s true for sellers and buyers regardless of whether it relates to your products, locations, payments, shipping information, preferences, or any online activity. As a result, you can now defend your human right to privacy and shield yourself from the many technical and political uncertainties of today’s world.
+Terminé les mots de passe et les informations de carte bancaire volées, les comptes en ligne compromis, ou tout autre surveillance en ligne. Lorsque aucune donnée sur vous n'est créée, aucune ne peut être collectée. Et lorsque personne ne les collecte, elles ne peuvent être partagées, vendues, mal utilisées, piratées ou divulguées. Cela est vrai pour les vendeurs et acheteurs qu'il s'agisse de vos produits, localisations, paiements, informations d'expéditions, préférences, ou toute activité en ligne. En conséquence, vous pouvez défendre votre droit humain à la confidentialité et vous protéger des nombreuses incertitudes techniques et politiques du monde d'aujourd'hui.
 
-*“We help you become invincible to privacy issues.”*
+*“Nous vous aidons à rendre votre vie privée invincible.”*
 
-**You Stop Restrictions, Politics, and Malice**
+**Vous stoppez les restrictions, politiques, et la malveillance**
 
-:term:`Particl Marketplace` has a 100% uptime that is impossible to be taken offline or manipulated. No merchant, buyer, or product can be banned, censored, or canceled by all-powerful tech overlords. Instead, it's the Particl community that is in charge of what content is allowed or not on the marketplace. Across national borders, you can now enjoy free trade and free-market conditions without the interference of governing bodies or unfair legislation. Manufacturers, vendors, and producers can freely decide how and with whom they do business.
+:term:`Particl Marketplace` fonctionne 100% du temps et est impossible à mettre hors ligne ou manipuler. Aucun marchand, acheteur ou produit ne peut être banni, censuré ou annulé par les tout-puissants seigneurs de la tech. À la place c'est la communauté Particl qui est en charge du contenu autorisé ou non sur la place de marché. À travers les frontières vous pouvez maintenant profiter de conditions de libre échange et libre marché sans l'interférence d'entités gouvernementales ou de législation injuste. Fabricants, vendeurs et producteurs peuvent librement décider comment et avec qui faire des affaires.
 
-*“We help you become bullet-proof against unfair restrictions.”*
+*“Nous vous aidons à devenir imperméable aux restrictions déloyales.”*
 
-**You Stop Fraud and Trickery**
+**Vous stoppez la fraude et la supercherie**
 
-No more bricks in the package or bad quality counterfeit goods for you as a customer. No more chargebacks for vendors due to stolen identities. Fraudulent attempts get taken down with a free of charge and automated two-party escrow system.
+Plus de briques dans le colis ou de contrefaçon de mauvaise qualité pour vous en tant que client. Plus de rétrofacturations pour les vendeurs à cause de fausses identités. Les tentatives frauduleuses sont réduites à néant grâce à un système gratuit et automatisé de dépôt bilatéral.
 
-*“We help you to become immune to online fraud and scammers.”*
+*“Nous vous aidons à vous immuniser contre la fraude en ligne et ses arnaqueurs.”*
 
-**You Stop Spam and Unwanted Solicitations**
+**Vous stoppez le spam et les sollicitations non voulues**
 
-Tailored ads are hammering on you even after making a purchase, and most of the time, even before you make it. You see them on the websites you visit, you encounter them throughout your emails, and directly on the apps you use. It even affects how search engines deliver results to you. Invasive ads follow you wherever you go, and, every day, they crawl deeper into your life.
+Les publicités sur mesure vous matraquent même après avoir effectué un achat, et la plupart du temps même avant que vous le fassiez. Vous les voyez sur les sites que vous visitez, vos emails, et directement dans les applications que vous utilisez. Cela affecte même les résultats que les moteurs de recherche vous délivrent. Les publicités invasives vous suivent partout, et chaque jour s'immiscent davantage dans votre vie.
 
-*“We help you to put an end to spam.”*
+*“Nous vous aidons à mettre un terme au spam.”*
 
 ----
 
-Contribute To Society
+Contribuez à la société
 ---------------------
 
-E-commerce and online marketplaces have made the world of shopping and selling a very different place. The price wars destroyed small merchants, only to benefit online platform operators and financial services providers. As a result, small businesses have had to give up, while only a handful of large corporations continuing to dominate the market. The ones who suffer the most are the low-to-middle-class people, the heart of every nation throughout the world.
+L'e-commerce et les places de marché ont transformé le monde de l'achat et de la vente en ligne. La guerre des prix a détruit les petits marchands, uniquement pour bénéficier aux opérateurs de plateforme en ligne et fournisseurs de services financiers. Résultat, les petites entreprises ont été forcées d'abandonner, pendant qu'une poignée de grandes entreprises dominent le marché. Ceux qui souffrent le plus étant les gens de la classe populaire et moyenne, le cœur de chaque nation à travers le monde.
 
-**Pledge to Small Merchants, Manufacturers, and Producers**
+**Engagement pour les petits marchands, fabricants et producteurs**
 
-Breaking the online monopolies gives merchants, manufacturers, and producers of goods and services the ability to build a livelihood that no longer depends on middlemen and large corporations' interests.
+Rompre avec les monopoles en ligne donne aux marchands, fabricants et producteurs de biens et services la capacité à établir un moyen d'existence qui ne dépend plus des intérêts d'un intermédiaire ou une grande entreprise.
 
-**Pledge to Local Shops and Co-operatives**
+**Engagement pour les boutiques locales et coopératives**
 
-Local shops and co-operatives in your proximity get the ability to set up their own internet shops at virtually no cost, no maintenance requirement, and without any external interference or oversight.
+Les boutiques locales et coopératives à proximité de chez vous ont la capacité de mettre en place leur propre boutique internet à un coût virtuellement nul, sans maintenance requise, et sans interférence externe ou contrôle.
 
-**Pledge to Yourself and your Communities**
+**Engagement pour vous-même et vos communautés**
 
-Some say that sustainability and responsibility are the cornerstones of a healthy economy. Don’t wait for somebody to make the economy better. Be your own revolution and liberation. Share and discuss :term:`Particl Marketplace` with your communities and help them improve their situation.
+Certains disent que la durabilité et la responsabilité sont la pierre angulaire d'une économie saine. N'attendez pas quelqu'un d'autre pour améliorer l'économie. Soyez votre propre révolution libératrice. Partagez et discutez de :term:`Particl Marketplace` avec vos communautés et aidez les à améliorer leur situation.
 
-*“It’s time to give back to the small, to the oppressed, and the exploited. Now you can reduce global inequalities and competitive disadvantages.”* 
+*“Il est temps de redonner au petit, à l'oppressé, et à l'exploité. Maintenant vous pouvez réduire les inégalités et les désavantages compétitifs.”* 
 
 ----
 
-Your Successes
+Vos succès
 --------------
 
-By :ref:`installing <Installation Guides>` and using :term:`Particl Marketplace`, you make a conscious decision that rewards you:
+En :ref:`installing <Installation Guides>` et utilisant la :term:`Particl Marketplace`, vous faites un choix de conscience qui vous récompense:
 
-* You get lower product prices as a customer and higher margins as a vendor.
-* You become the captain of your personal data and liberties.
-* You are immune to online fraud.
-* You are invincible to privacy issues.
-* You are bullet-proof against restrictions.
-* You say goodbye to spam.
-* You fight against global economic and social inequalities.
+* Vous bénéficiez de prix réduits en tant que client et de plus grosses marges en tant que vendeur.
+* Vous devenez le capitaine de vos informations personnelles et libertés.
+* Vous êtes immunisé à la fraude en ligne.
+* Vous êtes invincible face aux soucis de confidentialité.
+* Vous êtes à l'épreuve des balles face aux restrictions.
+* Vous dites au revoir au spam.
+* Vous combattez l'économie globalisée et les inégalités sociales.
 
-*Admittedly, there is a price for all this. Currently, it is just a little bit of inconvenience. So, do you think it’s worth it?*
+*Certes, il y a un prix à payer pour tout ça. Actuellement un peu de désagréments à l'usage. Mais ne pensez vous pas que cela en vaille la peine?*
 
 ----
 
-How it Works
+Comment cela fonctionne
 -------------
 
-:term:`Particl Marketplace` relies on open-source technologies that are openly audited, inspected, and improved by the global community. Each and every single component of the marketplace is designed to keep you, your funds, and your personal information safe.
+:term:`Particl Marketplace` dépend de technologies open-source qui sont ouvertement auditées, inspectées et améliorées par la communauté. Chaque élément de la marketplace est conçu pour vous maintenir vous, vos fonds et vos informations personnelles en sécurité.
 
-It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-to-peer <Peer-to-Peer>` technologies, which you may know by hearing :term:`Blockchain` and Bitcoin's synonyms. It runs on a distributed network (:term:`Particl Network`) of :term:`nodes <Node>` hosted by volunteers scattered across the world. It is an entirely autonomous platform that doesn’t require any central party to operate, which means no company or organization is between buyers and sellers.
+Celle-ci est basée sur les technologies de :term:`distributed ledger <Distributed Ledger>` et :term:`peer-to-peer <Peer-to-Peer>`, que vous connaissez peut être de nom. La :term:`Blockchain` Bitcoin et autres assimilés. Cela fonctionne sur un réseau distribué (:term:`Particl Network`) de :term:`nodes <Node>` hébergés par des volontaires éparpillés à travers le monde. La plateforme est entièrement autonome et indépendante, et ne requiert aucune entité centrale pour opérer, ce qui veut dire pas d'entreprise ou organisation entre acheteurs et vendeurs.
 
 .. raw:: html
 
@@ -138,10 +138,10 @@ It is based on :term:`distributed ledger <Distributed Ledger>` and :term:`peer-t
 
 ----
 
-**It gets even more interesting**
+**Cela devient encore plus intéressant**
 
-Now you have a good understanding of what you get. In the next chapter, you'll learn about the target audiences and their needs. Can you find yourself there? 
+Maintenant vous avez une bonne compréhension de ce que vous pouvez obtenir. Dans le prochain chapitre, vous élargirez votre compréhension du public cible et leurs besoins. Pouvez vous vous y retrouver jusqu'ici? 
 
-Perhaps you want to skip that part and install it right away? Just head over to the :ref:`Installation Guides`.
+Peut-être voulez vous sauter cette partie et procéder à l'installation tout de suite? Passez au :ref:`Installation Guides`.
 
 ----
