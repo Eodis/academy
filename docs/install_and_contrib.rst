@@ -12,8 +12,8 @@ If you are an occasional contributor and you only want to add one or two lines, 
 
    **General Contribution Flow**
 
-   1. Fork the :code:`particl-community/academy` repository into your forked repository and clone the forked repository into your local repository.
-   2. Do your changes, commit them, and push from your local to your forked repository on Github.
+   1. Fork the :code:`particl-community/academy` repository as your forked repository and clone the forked repository into your local repository.
+   2. Do your changes, review them in a local live version of the Academy, commit them, and push from your local to your forked repository on Github.
    3. Create a pull request as your contribution's integration request on the upstream :code:`particl-community/academy` repository.
    4. After a manual review by the maintainers, your code gets merged.
    5. A new Academy version gets rendered and is instantly available.
@@ -138,6 +138,7 @@ Download & Install Additional Packages
 
             choco install git git-lfx gh sublimetext4 sublimemerge -y
             choco install python -y
+            # close the powershell and open a new one; then proceed
             pip install sphinx sphinx-rtd-theme sphinx-copybutton sphinx-tabs rst2pdf
 
 
@@ -297,7 +298,7 @@ Configure Sublime Text
 .. rst-class:: bignums
 
    #. Open :guilabel:`Sublime-Text`
-   #. Click on :guilabel:`File` > :guilabel:`Open Folder` > Navigate to and select the previously cloned _:code:`academy` folder.
+   #. Click on :guilabel:`File` > :guilabel:`Open Folder` > Navigate to and select the previously cloned :code:`academy` folder.
    #. Create a new build shortcut
 
       #. Click on :guilabel:`Tools` > :guilabel:`Build System` > :guilabel:`New Build System`
@@ -310,7 +311,7 @@ Configure Sublime Text
             .. code-block:: bash
 
                {
-               "shell_cmd": "cd %USERPROFILE%/academy && rmdir /s /q _build && make html"
+               "shell_cmd": "cd %USERPROFILE%\\academy & rmdir /s /q _build & make html"
                }
 
          .. group-tab:: MacOS
@@ -383,7 +384,7 @@ Configure Sublime Merge
 Merging, Branching, and Commits
 -------------------------------
 
-Branches in Git are snapshots of your code repository at a given state. You can switch between them and/more merge code back and forth.
+Branches in Git are snapshots of your code repository at a given state. You can switch between them and/or merge code back and forth.
 
 With your initial cloning of your Academy as origin repository you're by default on the master branch. As soon as you checkout (switch) into a different branch all your files get modified according to its branch status. If you switch back, you're back on the initial code base.
 
@@ -399,7 +400,7 @@ The master branch is the one where the live version of the Academy gets rendered
 
 *What you can do here*
 
-You can fix typos, add content, and create pull requests to the origin repository. 
+You can fix typos, add content, and create pull requests to the upstream repository. 
 
 
 **Branch: Temp**
@@ -515,7 +516,7 @@ FAQ
 
     Try to find out if there’s already a language branch. You can find the branches on the upstream repository. The person who created it has a fork himself and is then a maintainer if no other person may have been denominated. Try to contact them to tackle your tasks as a team.
 
-    It’s of utmost importance you have people at hand able to proofread your writings in any case. Ideally, a non-literal person can understand what you have written.
+    It’s of utmost importance you have people at hand able to proofread your writings in any case. Ideally, a Particl unaware person can understand what you have written.
 
 .. container:: toggle
 
@@ -531,7 +532,7 @@ FAQ
 
         **How can I discuss a certain topic regarding the Academy?**
 
-    Open an :guilabel:`issue` on the `Origin Academy Repository <https://github.com/particl-community/academy/issues>`_.
+    Open an :guilabel:`issue` on the `Upstream Academy Repository <https://github.com/particl-community/academy/issues>`_.
 
 .. container:: toggle
 
@@ -540,3 +541,11 @@ FAQ
         **Can I create some PR's for testing purposes?**
 
     You can create them, but they won't get merged. So, behave.
+
+.. container:: toggle
+
+    .. container:: header
+
+        **Can I use a different software for editing?**
+
+    Yes you can. Examples are `Atom <https://atom.io>`_ or `Visual Code <https://code.visualstudio.com>`_ or really any other text editor. But you'll need to adapt the processes yourself. So, everything in this tutorial is done the way to take you up to light-speed.
